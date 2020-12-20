@@ -1,13 +1,12 @@
 # NU_Bootcamp_VBA_Challenge
-Homework 2
 
-Files have been added for submission
-
-
-.PNG files contain the screenshots of the Excel workbook
+The files for Homework 2 have been submitted for grading
 
 
-.bas files contain the VBS code used in the analysis - one for the statistical analysis, the other for the color conditional formatting.
+The .PNG files contain the screenshots of the Excel workbook
 
 
-Contact me with any questions
+The .bas files contain the VBS code used in the analysis - one for the statistical analysis, the other for the color conditional formatting.
+
+
+Contact me if you have any questions
